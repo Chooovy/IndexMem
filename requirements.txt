@@ -1,0 +1,7 @@
+cachetools
+fire
+jieba
+fuzzywuzzy
+rouge
+nltk
+bert_score
