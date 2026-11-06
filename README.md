@@ -3,7 +3,7 @@
 <p align="center"><strong>The Gating Mechanism of KV Cache Eviction</strong></p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-coming_soon-bb9af7?style=flat-square&logo=arxiv&logoColor=white&labelColor=1a1b26" alt="Paper on arXiv"></a>
+  <a href="https://arxiv.org/abs/2611.07605"><img src="https://img.shields.io/badge/arXiv-2611.07605-bb9af7?style=flat-square&logo=arxiv&logoColor=white&labelColor=1a1b26" alt="Paper on arXiv"></a>
   <a href="https://github.com/Chooovy/IndexMem"><img src="https://img.shields.io/badge/GitHub-Code-7aa2f7?style=flat-square&logo=github&logoColor=white&labelColor=1a1b26" alt="Code on GitHub"></a>
   <a href="https://huggingface.co/collections/marcusguhao/indexmem-6a8306e81cb4455d3c35ca04"><img src="https://img.shields.io/badge/Hugging_Face-Models-e0af68?style=flat-square&logo=huggingface&logoColor=white&labelColor=1a1b26" alt="Models on Hugging Face"></a>
 </p>
